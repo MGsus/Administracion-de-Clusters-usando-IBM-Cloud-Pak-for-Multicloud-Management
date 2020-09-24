@@ -1,4 +1,4 @@
-﻿# Administracion de Clusters usando-IBM Cloud Pak for Multicloud Management
+﻿# Administración de Clusters usando IBM Cloud Pak for Multicloud Management
 
 En este tutorial podrá explorar el CP4MCM, aprenderá cómo agregar un cluster, cómo desplegar una aplicación usando un Helm chart del catálogo y cómo administrar los objetos de definición en multiples clusters
 
